@@ -5,3 +5,5 @@ This is a capstone data project for the Udemy course I attended - [*Python for D
 This project focuses on exploratory (and technical) data analysis of stock prices with pandas and visualization libraries. 
 The focus is on bank stocks and how they progressed throughout the [financial crisis](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308) all the way to early 2016. The data is obtained from open data sources (Yahoo Finance data via yfinance).
 Several aspects are explored in the project, e.g., heatmaps, descriptive time-series analysis, interactive plots, SMA and Bollinger Bands with Plotly and cufflinks.
+
+GitHub does not support the preview of Plotly-created interactive plots. To view those plots, you can visit the Colab notebook via the link.
